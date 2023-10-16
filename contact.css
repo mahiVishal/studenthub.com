@@ -1,0 +1,18 @@
+.contact-content {
+    height: 650px;
+
+   /* display: flex;*/
+
+   background-color: rgb(233, 233, 255);
+    /* margin-top: 32px; */
+}
+.contact-content {
+    content: "";
+    background-image: url("ho.jpg");
+    opacity:0.9 ;
+    /* border-radius: 12px; */
+    padding: 10px;
+    margin-bottom: 10px;
+    z-index: -6;
+   
+}

@@ -1,0 +1,14 @@
+@media screen and(max-width:1566) {
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 13px;
+    }
+    .content{
+        height: auto;
+    }
+    .content-right{
+        height: auto;
+
+    }
+    
+}
